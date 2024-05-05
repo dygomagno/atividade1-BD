@@ -1,0 +1,16 @@
+Dois dos bancos de dados mais utilizados 
+no mercado de trabalho são o MySQL e o PostgreSQL.
+
+MySQL: É um sistema de gerenciamento de banco de 
+dados relacional de código aberto. É amplamente 
+utilizado em aplicações web, sendo a escolha comum
+para sites que precisam de um banco de dados 
+robusto e escalável. O MySQL suporta várias 
+plataformas e é conhecido por sua facilidade 
+de uso, desempenho confiável e forte suporte da 
+comunidade.
+
+
+PostgreSQL: Também conhecido como Postgres, é um 
+sistema de gerenciamento de banco de dados 
+relacional de código aberto e altamente avançado. Ele é conhecido por sua conformidade com padrões, extensibilidade e recursos avançados, como suporte a tipos de dados personalizados, índices avançados e transações complexas. O PostgreSQL é frequentemente escolhido para aplicações que exigem recursos avançados de banco de dados e escalabilidade.
